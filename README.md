@@ -189,7 +189,7 @@ The difference between the two is spacing and new lines.
 6. [Helpers](./6.Helpers.md)
    - Defining
    - Autoload Using Composer
-7. [Tips & Ticks](./7.Tips&Tricks.md)
+7. [Hacks](./7.Hacks.md)
    - Tips
    - Tricks
 
